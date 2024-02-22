@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(127, 255, 212);
+}
+.container{
+  background-color: rgb(2, 207, 139);
+  border-radius: 25px;
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  border-style: double;
+}
+input{
+  width: 150px;
+  text-align: center;
+  height: 35px;
+  border-radius: 25px;
+  font-size: medium;
+}
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: rgb(99, 236, 190);
+}
+button:hover{
+  background-color: rgb(38, 236, 170);
+}
+
